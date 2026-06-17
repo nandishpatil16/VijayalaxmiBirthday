@@ -5,20 +5,20 @@ import { fireConfetti } from "./ConfettiBurst";
 const VIDEOS = [
   {
     url: "/videos/VN20260614_141511.mp4",
-    title: "Our Sweet Memories 💖",
-    description: "A special compiled memory edit",
+    title: "My Best Friend 💖",
+    description: "A special tribute to my best friend",
     emoji: "🎬",
   },
   {
     url: "/videos/VN20260614_151459.mp4",
-    title: "Birthday Surprise Reveal ✨",
-    description: "Cute birthday clips and wishes",
+    title: "Your Always Mine ✨",
+    description: "Forever and always, you are mine",
     emoji: "🎂",
   },
   {
     url: "/videos/VN20260606_160248.mp4",
-    title: "Fun & Laughs Together 😂",
-    description: "Funny and goofy moments",
+    title: "Our Sweet Memories 🎀",
+    description: "Beautiful moments we shared together",
     emoji: "🎈",
   },
 ];
